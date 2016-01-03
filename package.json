@@ -1,5 +1,5 @@
 {
-  "name": "brewery",
+  "name": "brewmaster",
   "version": "1.0.0",
   "description": "Wrapper for calling homebrew from node.",
   "main": "index.js",
