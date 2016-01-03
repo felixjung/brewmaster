@@ -1,0 +1,15 @@
+{
+  "name": "brewery",
+  "version": "1.0.0",
+  "description": "Wrapper for calling homebrew from node.",
+  "main": "index.js",
+  "keywords": [
+    "homebrew"
+  ],
+  "author": "Felix Jung <felix@jung.fm> (http://felixjung.io)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "shelljs": "^0.5.3"
+  }
+}
