@@ -6,6 +6,10 @@
   "keywords": [
     "homebrew"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixjung/brewmaster.git"
+  },
   "author": "Felix Jung <felix@jung.fm> (http://felixjung.io)",
   "license": "MIT",
   "dependencies": {
