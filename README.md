@@ -9,5 +9,5 @@ Brewmaster is written in ES2015 and requires node v5.3.0.
 ## Installation
 
 ```bash
-npm install brewery
+npm install brewmaster
 ```
